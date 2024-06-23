@@ -1,10 +1,10 @@
-# Embedded Temperature Monitoring System
+# Embedded Smartsprout Sensor System
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/NexusNova-IOT/embedded-system-temperature/main/assets/screenshot.png" alt="Project Screenshot" height="350"> </h1>
 
 ## Project Description
 
-This embedded temperature monitoring system is developed as part of the NexusNova group's project. It is designed to measure and monitor temperature data using an embedded system. The project utilizes the Wokwi simulation platform for hardware emulation and testing.
+This embedded sensor system is developed as part of the Smartsprout group's project. It is designed to measure and monitor temperature data using an embedded system. The project utilizes the Wokwi simulation platform for hardware emulation and testing.
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ You have two options to explore and run this project: you can either use the Wok
 
 To simulate this project using the Wokwi platform, simply follow the link below to access the project:
 
-[Simulate this project on Wokwi](https://wokwi.com/projects/378478876178319361)
+[Simulate this project on Wokwi](https://wokwi.com/projects/400171199011340289)
 
 ### Option 2: Run Locally
 
